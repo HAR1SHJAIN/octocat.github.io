@@ -1,5 +1,4 @@
-Hi, My Name is HARISHJAIN I am a B.Tech aspirant in Computer Science and Engineering.
+Hi, My Name is HARISH BHANDARI
+I am a B.Tech aspirant in Computer Science and Engineering.
+I am a CODER
 
-I am a
-
-Devel|
